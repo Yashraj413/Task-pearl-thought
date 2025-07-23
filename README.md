@@ -1,7 +1,7 @@
 🌟 Pearl Thoughts Tasks
 A minimal and elegant task manager built using Next.js and powered by the modern web stack.
 
-#🚀 Getting Started
+##🚀 Getting Started
 This is a Next.js project bootstrapped with create-next-app.
 
 ✅ Prerequisites
