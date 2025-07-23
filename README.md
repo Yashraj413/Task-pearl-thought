@@ -1,11 +1,17 @@
 🌟 Pearl Thoughts Tasks
 A minimal and elegant task manager built using Next.js and powered by the modern web stack.
 
-##🚀 Getting Started
+---
+
+## 🚀 Getting Started
 This is a Next.js project bootstrapped with create-next-app.
+
+---
 
 ✅ Prerequisites
 Ensure you have Node.js (v18 or later) installed.
+
+---
 
 🔧 Installation
 Clone the repository:
@@ -25,12 +31,16 @@ bash
 npm run dev
 Open your browser at: http://localhost:3000
 
+---
+
 ✍️ Development
 Start editing by modifying the file:
 
 bash
 app/page.tsx
 The page auto-updates as you edit.
+
+---
 
 🖋️ Typography
 Uses the next/font module to optimize and load Geist Sans, a modern font by Vercel.
