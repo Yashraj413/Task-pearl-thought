@@ -1,4 +1,4 @@
-## 🌟 Pearl Thoughts Tasks
+## 🌟 Doctor Appointment 
 A minimal and elegant task manager built using Next.js and powered by the modern web stack.
 
 ---
