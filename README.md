@@ -17,7 +17,7 @@ Ensure you have Node.js (v18 or later) installed.
 Clone the repository:
 
 bash
-git clone https://github.com/Mithurn/pearl-thoughts-tasks.git
+git clone https://github.com/Yashraj413/Task-pearl-thought.git
 cd pearl-thoughts-tasks
 Install dependencies:
 
